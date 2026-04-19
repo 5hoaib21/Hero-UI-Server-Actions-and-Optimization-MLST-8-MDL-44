@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Design homepage UI",
+    "description": "Create modern and responsive homepage layout using Tailwind CSS",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-20",
+    "assignedTo": "Shoaib",
+    "tags": ["design", "ui", "frontend"]
+  },
+  {
+    "id": 2,
+    "title": "Setup authentication system",
+    "description": "Implement login and registration using Firebase authentication",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-22",
+    "assignedTo": "Rahim",
+    "tags": ["auth", "firebase", "backend"]
+  },
+  {
+    "id": 3,
+    "title": "Create product API",
+    "description": "Build API endpoints for fetching and managing products",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-25",
+    "assignedTo": "Karim",
+    "tags": ["api", "backend"]
+  },
+  {
+    "id": 4,
+    "title": "Implement cart functionality",
+    "description": "Add add-to-cart, remove, and update quantity features",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-21",
+    "assignedTo": "Shoaib",
+    "tags": ["cart", "frontend", "logic"]
+  },
+  {
+    "id": 5,
+    "title": "Optimize images",
+    "description": "Compress and optimize images for better performance",
+    "status": "completed",
+    "priority": "low",
+    "dueDate": "2026-04-18",
+    "assignedTo": "Nusrat",
+    "tags": ["performance", "optimization"]
+  },
+  {
+    "id": 6,
+    "title": "Write blog section",
+    "description": "Create blog listing and details page with dynamic routing",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-26",
+    "assignedTo": "Ayesha",
+    "tags": ["blog", "frontend"]
+  },
+  {
+    "id": 7,
+    "title": "Add dark mode",
+    "description": "Implement dark mode toggle for better user experience",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2026-04-30",
+    "assignedTo": "Tanvir",
+    "tags": ["ui", "feature"]
+  },
+  {
+    "id": 8,
+    "title": "Fix responsive issues",
+    "description": "Ensure layout works properly on mobile and tablet devices",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-19",
+    "assignedTo": "Shoaib",
+    "tags": ["responsive", "bug"]
+  }
+]
