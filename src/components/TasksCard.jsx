@@ -5,7 +5,7 @@ import { Card, Link } from "@heroui/react";
 const TasksCard = ({ task }) => {
   const { title, description, status } = task;
   return (
-    <Card variant="tertiary" className="border-2 border-primary text-black">
+    <Card variant="primary" className="border-2 border-primary text-black">
       {/* <CircleDollar
         aria-label="Dollar sign icon"
         className="text-primary size-6"
