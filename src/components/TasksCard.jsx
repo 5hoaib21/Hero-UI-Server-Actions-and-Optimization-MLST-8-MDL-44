@@ -16,7 +16,7 @@ const TasksCard = ({ task }) => {
         <Card.Description>{description}</Card.Description>
       </Card.Header>
       <Card.Footer>
-        <Link
+        {/* <Link
           aria-label="Go to Acme Creator Hub (opens in new tab)"
           href="https://heroui.com"
           rel="noopener noreferrer"
@@ -24,7 +24,8 @@ const TasksCard = ({ task }) => {
         >
           Creator Hub
           <Link.Icon aria-hidden="true" />
-        </Link>
+        </Link> */}
+        <h2>card footer</h2>
       </Card.Footer>
     </Card>
   );
